@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @offset-dass
-- 🌱 I’m currently learning JS and React.
+- 🌱 I’m currently learning C++, Python, R, and JS.
 
 <!---
 offset-dass/offset-dass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
